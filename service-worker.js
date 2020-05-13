@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Fantasy_Football_Recommender/precache-manifest.8a5f4bc81a0f7022db866095d67281b7.js"
+  "/Fantasy_Football_Recommender/precache-manifest.128b53c99598cac219d2f8360a826b99.js"
 );
 
 self.addEventListener('message', (event) => {

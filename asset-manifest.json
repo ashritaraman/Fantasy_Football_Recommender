@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Fantasy_Football_Recommender/static/css/main.eb4c7c21.chunk.css",
-    "main.js": "/Fantasy_Football_Recommender/static/js/main.ba361a58.chunk.js",
-    "main.js.map": "/Fantasy_Football_Recommender/static/js/main.ba361a58.chunk.js.map",
+    "main.js": "/Fantasy_Football_Recommender/static/js/main.178ef3e1.chunk.js",
+    "main.js.map": "/Fantasy_Football_Recommender/static/js/main.178ef3e1.chunk.js.map",
     "runtime-main.js": "/Fantasy_Football_Recommender/static/js/runtime-main.aa7a4e5f.js",
     "runtime-main.js.map": "/Fantasy_Football_Recommender/static/js/runtime-main.aa7a4e5f.js.map",
     "static/css/2.042ceb8c.chunk.css": "/Fantasy_Football_Recommender/static/css/2.042ceb8c.chunk.css",
     "static/js/2.aca7e535.chunk.js": "/Fantasy_Football_Recommender/static/js/2.aca7e535.chunk.js",
     "static/js/2.aca7e535.chunk.js.map": "/Fantasy_Football_Recommender/static/js/2.aca7e535.chunk.js.map",
     "index.html": "/Fantasy_Football_Recommender/index.html",
-    "precache-manifest.8a5f4bc81a0f7022db866095d67281b7.js": "/Fantasy_Football_Recommender/precache-manifest.8a5f4bc81a0f7022db866095d67281b7.js",
+    "precache-manifest.128b53c99598cac219d2f8360a826b99.js": "/Fantasy_Football_Recommender/precache-manifest.128b53c99598cac219d2f8360a826b99.js",
     "service-worker.js": "/Fantasy_Football_Recommender/service-worker.js",
     "static/css/2.042ceb8c.chunk.css.map": "/Fantasy_Football_Recommender/static/css/2.042ceb8c.chunk.css.map",
     "static/css/main.eb4c7c21.chunk.css.map": "/Fantasy_Football_Recommender/static/css/main.eb4c7c21.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.042ceb8c.chunk.css",
     "static/js/2.aca7e535.chunk.js",
     "static/css/main.eb4c7c21.chunk.css",
-    "static/js/main.ba361a58.chunk.js"
+    "static/js/main.178ef3e1.chunk.js"
   ]
 }
