@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9214444e59cdb8db402280a33cb6e84a",
+    "revision": "c6f0bc08b55e91e3646057b4b926a6ed",
     "url": "/Fantasy_Football_Recommender/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Fantasy_Football_Recommender/static/css/2.042ceb8c.chunk.css"
   },
   {
-    "revision": "a86ef966a57f185ac3c9",
-    "url": "/Fantasy_Football_Recommender/static/css/main.7fb3a3a2.chunk.css"
+    "revision": "5e383293803356c3bf38",
+    "url": "/Fantasy_Football_Recommender/static/css/main.eb4c7c21.chunk.css"
   },
   {
     "revision": "52be60bcbfcb7710c44f",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Fantasy_Football_Recommender/static/js/2.aca7e535.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a86ef966a57f185ac3c9",
-    "url": "/Fantasy_Football_Recommender/static/js/main.02737029.chunk.js"
+    "revision": "5e383293803356c3bf38",
+    "url": "/Fantasy_Football_Recommender/static/js/main.ba361a58.chunk.js"
   },
   {
     "revision": "45f8fed15523862ab4ad",
