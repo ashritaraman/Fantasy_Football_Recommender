@@ -451,7 +451,7 @@ class FormExampleSubcomponentControl extends Component {
             <Grid columns={4} padded>
               <Grid.Column>
                 <Form.Field padded="very">
-                  <label>Choose a Game Week Between 2-38</label>
+                  <label>Choose a game week between 2-38</label>
                   <input
                     type="number"
                     placeholder="2"
