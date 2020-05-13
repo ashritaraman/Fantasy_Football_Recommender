@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/AI_Prac/static/css/main.7fb3a3a2.chunk.css",
-    "main.js": "/AI_Prac/static/js/main.25bf1f26.chunk.js",
-    "main.js.map": "/AI_Prac/static/js/main.25bf1f26.chunk.js.map",
-    "runtime-main.js": "/AI_Prac/static/js/runtime-main.9f86fb79.js",
-    "runtime-main.js.map": "/AI_Prac/static/js/runtime-main.9f86fb79.js.map",
-    "static/css/2.3e65bab1.chunk.css": "/AI_Prac/static/css/2.3e65bab1.chunk.css",
-    "static/js/2.aca7e535.chunk.js": "/AI_Prac/static/js/2.aca7e535.chunk.js",
-    "static/js/2.aca7e535.chunk.js.map": "/AI_Prac/static/js/2.aca7e535.chunk.js.map",
-    "index.html": "/AI_Prac/index.html",
-    "precache-manifest.bbed75655657d92e2faa665f7a5f65a6.js": "/AI_Prac/precache-manifest.bbed75655657d92e2faa665f7a5f65a6.js",
-    "service-worker.js": "/AI_Prac/service-worker.js",
-    "static/css/2.3e65bab1.chunk.css.map": "/AI_Prac/static/css/2.3e65bab1.chunk.css.map",
-    "static/css/main.7fb3a3a2.chunk.css.map": "/AI_Prac/static/css/main.7fb3a3a2.chunk.css.map",
-    "static/js/2.aca7e535.chunk.js.LICENSE.txt": "/AI_Prac/static/js/2.aca7e535.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/AI_Prac/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/modal_pic.png": "/AI_Prac/static/media/modal_pic.65da1bef.png",
-    "static/media/pic.png": "/AI_Prac/static/media/pic.befcc906.png"
+    "main.css": "/Fantasy_Football_Recommender/static/css/main.7fb3a3a2.chunk.css",
+    "main.js": "/Fantasy_Football_Recommender/static/js/main.02737029.chunk.js",
+    "main.js.map": "/Fantasy_Football_Recommender/static/js/main.02737029.chunk.js.map",
+    "runtime-main.js": "/Fantasy_Football_Recommender/static/js/runtime-main.aa7a4e5f.js",
+    "runtime-main.js.map": "/Fantasy_Football_Recommender/static/js/runtime-main.aa7a4e5f.js.map",
+    "static/css/2.042ceb8c.chunk.css": "/Fantasy_Football_Recommender/static/css/2.042ceb8c.chunk.css",
+    "static/js/2.aca7e535.chunk.js": "/Fantasy_Football_Recommender/static/js/2.aca7e535.chunk.js",
+    "static/js/2.aca7e535.chunk.js.map": "/Fantasy_Football_Recommender/static/js/2.aca7e535.chunk.js.map",
+    "index.html": "/Fantasy_Football_Recommender/index.html",
+    "precache-manifest.9325933c4fa0b82ee14ecc6c67f1439f.js": "/Fantasy_Football_Recommender/precache-manifest.9325933c4fa0b82ee14ecc6c67f1439f.js",
+    "service-worker.js": "/Fantasy_Football_Recommender/service-worker.js",
+    "static/css/2.042ceb8c.chunk.css.map": "/Fantasy_Football_Recommender/static/css/2.042ceb8c.chunk.css.map",
+    "static/css/main.7fb3a3a2.chunk.css.map": "/Fantasy_Football_Recommender/static/css/main.7fb3a3a2.chunk.css.map",
+    "static/js/2.aca7e535.chunk.js.LICENSE.txt": "/Fantasy_Football_Recommender/static/js/2.aca7e535.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Fantasy_Football_Recommender/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/modal_pic.png": "/Fantasy_Football_Recommender/static/media/modal_pic.65da1bef.png",
+    "static/media/pic.png": "/Fantasy_Football_Recommender/static/media/pic.befcc906.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f86fb79.js",
-    "static/css/2.3e65bab1.chunk.css",
+    "static/js/runtime-main.aa7a4e5f.js",
+    "static/css/2.042ceb8c.chunk.css",
     "static/js/2.aca7e535.chunk.js",
     "static/css/main.7fb3a3a2.chunk.css",
-    "static/js/main.25bf1f26.chunk.js"
+    "static/js/main.02737029.chunk.js"
   ]
 }
