@@ -6,7 +6,8 @@ const ProjectDescription = () => (
   <Segment basic padded='very'>
     <Container text>
       <Header as='h2' textAlign='center'>Choose your fantasy soccer team 🥅</Header>
-      <p>
+      <br />
+      <p class="bodytext">
         Welcome to our Fantasy Soccer Team Predictor! Let's see if you can
         pick a team to beat our AI! <br />
         <br />⚽ A team is made up of 2 goal keepers, 5 defenders, 5 midfielders, and 3 forwards<br />

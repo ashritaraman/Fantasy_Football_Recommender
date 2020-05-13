@@ -653,7 +653,7 @@ class FormExampleSubcomponentControl extends Component {
               </div>
             }
           >
-            <Modal.Header>Game Week {this.state.gameWeek} Teams</Modal.Header>
+            <Modal.Header> Results for game week {this.state.gameWeek} </Modal.Header>
             <Modal.Content image>
               <Modal.Description>
                 <Message color="purple" inverted tertiary>
