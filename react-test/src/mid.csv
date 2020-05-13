@@ -1,0 +1,253 @@
+,Position,first_name,second_name,team,player_id
+0,3,Mesut,Özil,1,13
+1,3,Aaron,Ramsey,1,14
+2,3,Alex,Iwobi,1,15
+3,3,Mohamed,Elneny,1,16
+4,3,Granit,Xhaka,1,17
+5,3,Henrikh,Mkhitaryan,1,18
+6,3,Reiss,Nelson,1,19
+7,3,Ainsley,Maitland-Niles,1,20
+8,3,Lucas,Torreira,1,450
+9,3,Matteo,Guendouzi,1,451
+10,3,Emile,Smith-Rowe,1,545
+11,3,Bukayo,Saka,1,563
+12,3,Joseph,Willock,1,566
+13,3,Denis,Suárez,1,586
+14,3,Marc,Pugh,2,34
+15,3,Andrew,Surman,2,35
+16,3,Junior,Stanislas,2,36
+17,3,Dan,Gosling,2,37
+18,3,Jordon,Ibe,2,38
+19,3,Lewis,Cook,2,39
+20,3,Ryan,Fraser,2,40
+21,3,Emerson,Hyndman,2,41
+22,3,David,Brooks,2,42
+23,3,Jefferson,Lerma,2,494
+24,3,Kyle,Taylor,2,600
+25,3,Nnamdi,Ofoborh,2,613
+26,3,Matt,Butcher,2,620
+27,3,Anthony,Knockaert,3,55
+28,3,Dale,Stephens,3,56
+29,3,Beram,Kayal,3,57
+30,3,Solomon,March,3,58
+31,3,Pascal,Groß,3,59
+32,3,Davy,Pröpper,3,60
+33,3,José Heriberto,Izquierdo Mena,3,61
+34,3,Yves,Bissouma,3,466
+35,3,Alireza,Jahanbakhsh,3,476
+36,3,Max,Sanders,3,572
+37,3,Jayson,Molumby,3,617
+38,3,Johann Berg,Gudmundsson,4,76
+39,3,Steven,Defour,4,77
+40,3,Jeff,Hendrick,4,78
+41,3,Robbie,Brady,4,79
+42,3,Ashley,Westwood,4,80
+43,3,Jonathan,Walters,4,81
+44,3,Jack,Cork,4,82
+45,3,Aaron,Lennon,4,83
+46,3,Dwight,McNeil,4,534
+47,3,Josh,Benson,4,583
+48,3,Harry,Arter,5,33
+49,3,Joe,Ralls,5,98
+50,3,David Junior,Hoilett,5,99
+51,3,Nathaniel,Mendez-Laing,5,100
+52,3,Callum,Paterson,5,101
+53,3,Aron,Gunnarsson,5,102
+54,3,Anthony,Pilkington,5,103
+55,3,Loïc,Damour,5,104
+56,3,Danny,Ward,5,105
+57,3,Josh,Murphy,5,106
+58,3,Víctor,Camarasa,5,504
+59,3,Kadeem,Harris,5,535
+60,3,Eden,Hazard,6,122
+61,3,Cesc,Fàbregas,6,123
+62,3,Willian,Borges Da Silva,6,124
+63,3,Pedro,Rodríguez Ledesma,6,125
+64,3,N'Golo,Kanté,6,126
+65,3,Ross,Barkley,6,127
+66,3,Daniel,Drinkwater,6,128
+67,3,Tiemoué,Bakayoko,6,129
+68,3,Ethan,Ampadu,6,130
+69,3,Callum,Hudson-Odoi,6,131
+70,3,Ruben,Loftus-Cheek,6,132
+71,3,Jorge Luiz,Frello Filho,6,459
+72,3,Mateo,Kovacic,6,499
+73,3,James,McArthur,7,147
+74,3,Bakary,Sako,7,148
+75,3,Andros,Townsend,7,149
+76,3,Luka,Milivojevic,7,150
+77,3,Cheikhou,Kouyaté,7,412
+78,3,Sullay,Kaikai,7,477
+79,3,Max,Meyer,7,486
+80,3,Luke,Dreher,7,618
+81,3,Theo,Walcott,8,164
+82,3,Yannick,Bolasie,8,165
+83,3,James,McCarthy,8,166
+84,3,Morgan,Schneiderlin,8,167
+85,3,Idrissa,Gueye,8,168
+86,3,Tom,Davies,8,169
+87,3,Ademola,Lookman,8,170
+88,3,Davy,Klaassen,8,171
+89,3,Gylfi,Sigurdsson,8,172
+90,3,Nikola,Vlasic,8,173
+91,3,Beni,Baningime,8,174
+92,3,Richarlison,de Andrade,8,393
+93,3,Kevin,Mirallas,8,469
+94,3,Bernard,Anício Caldeira Duarte,8,507
+95,3,André Filipe,Tavares Gomes,8,508
+96,3,Kieran,Dowell,8,528
+97,3,Tom,Cairney,9,182
+98,3,Kevin,McDonald,9,183
+99,3,Ryan,Sessegnon,9,184
+100,3,Stefan,Johansen,9,185
+101,3,Floyd,Ayité,9,186
+102,3,Neeskens,Kebano,9,187
+103,3,Rui Pedro,da Rocha Fonte,9,188
+104,3,Jean Michael,Seri,9,456
+105,3,André,Schürrle,9,478
+106,3,André-Frank,Zambo Anguissa,9,512
+107,3,Ibrahima,Cissé,9,521
+108,3,Ryan,Babel,9,575
+109,3,Lazar,Markovic,9,594
+110,3,Harvey,Elliott,9,610
+111,3,Luca,De La Torre,9,621
+112,3,Jason,Puncheon,10,146
+113,3,Aaron,Mooy,10,199
+114,3,Rajiv,van La Parra,10,200
+115,3,Jonathan,Hogg,10,201
+116,3,Philip,Billing,10,202
+117,3,Tom,Ince,10,203
+118,3,Danny,Williams,10,204
+119,3,Abdelhamid,Sabiri,10,205
+120,3,Alex,Pritchard,10,206
+121,3,Ramadan,Sobhi,10,207
+122,3,Juninho,Bacuna,10,208
+123,3,Adama,Diakhaby,10,471
+124,3,Isaac,Mbenza,10,514
+125,3,Matthew,Daly,10,606
+126,3,Aaron,Rowe,10,607
+127,3,Marc,Albrighton,11,224
+128,3,Demarai,Gray,11,225
+129,3,Daniel,Amartey,11,226
+130,3,Wilfred,Ndidi,11,227
+131,3,Vicente,Iborra,11,228
+132,3,Matty,James,11,229
+133,3,Hamza,Choudhury,11,230
+134,3,Adrien Sebastian,Perruchet Silva,11,231
+135,3,Fousseni,Diabaté,11,232
+136,3,James,Maddison,11,233
+137,3,Rachid,Ghezzal,11,492
+138,3,Nampalys,Mendy,11,527
+139,3,Harvey,Barnes,11,571
+140,3,Youri,Tielemans,11,591
+141,3,Alex,Oxlade-Chamberlain,12,248
+142,3,Jordan,Henderson,12,249
+143,3,Adam,Lallana,12,250
+144,3,Sadio,Mané,12,251
+145,3,Georginio,Wijnaldum,12,252
+146,3,Mohamed,Salah,12,253
+147,3,James,Milner,12,254
+148,3,Fabio Henrique,Tavares,12,255
+149,3,Naby,Keita,12,256
+150,3,Xherdan,Shaqiri,12,462
+151,3,Rafael,Camacho,12,557
+152,3,Curtis,Jones,12,597
+153,3,Riyad,Mahrez,13,223
+154,3,Raheem,Sterling,13,270
+155,3,David,Silva,13,271
+156,3,Fernando,Luiz Rosa,13,272
+157,3,Kevin,De Bruyne,13,273
+158,3,Ilkay,Gündogan,13,274
+159,3,Leroy,Sané,13,275
+160,3,Bernardo Mota,Veiga de Carvalho e Silva,13,276
+161,3,Phil,Foden,13,277
+162,3,Brahim,Diaz,13,278
+163,3,Oleksandr,Zinchenko,13,279
+164,3,Alexis,Sánchez,14,295
+165,3,Nemanja,Matic,14,296
+166,3,Juan,Mata,14,297
+167,3,Marouane,Fellaini,14,298
+168,3,Ander,Herrera,14,299
+169,3,Jesse,Lingard,14,300
+170,3,Anthony,Martial,14,301
+171,3,Paul,Pogba,14,302
+172,3,Scott,McTominay,14,303
+173,3,Frederico,Rodrigues de Paula Santos,14,304
+174,3,Andreas,Pereira,14,481
+175,3,Angel,Gomes,14,568
+176,3,James,Garner,14,602
+177,3,Tahith,Chong,14,603
+178,3,Matt,Ritchie,15,317
+179,3,Jonjo,Shelvey,15,318
+180,3,Mohamed,Diamé,15,319
+181,3,Christian,Atsu,15,320
+182,3,Jacob,Murphy,15,321
+183,3,Mikel,Merino,15,322
+184,3,Isaac,Hayden,15,323
+185,3,Sung-yueng,Ki,15,324
+186,3,Robert Kenedy,Nunes do Nascimento,15,458
+187,3,Sean,Longstaff,15,531
+188,3,Callum,Roberts,15,577
+189,3,Miguel,Almirón,15,587
+190,3,Kelland,Watts,15,622
+191,3,Steven,Davis,16,337
+192,3,James,Ward-Prowse,16,338
+193,3,Oriol,Romeu Vidal,16,339
+194,3,Pierre-Emile,Højbjerg,16,340
+195,3,Sofiane,Boufal,16,341
+196,3,Joshua,Sims,16,342
+197,3,Nathan,Redmond,16,343
+198,3,Mario,Lemina,16,344
+199,3,Stuart,Armstrong,16,345
+200,3,Mohamed,Elyounoussi,16,346
+201,3,Tyreke,Johnson,16,562
+202,3,Callum,Slattery,16,570
+203,3,Eric,Dier,17,361
+204,3,Mousa,Dembélé,17,362
+205,3,Erik,Lamela,17,363
+206,3,Christian,Eriksen,17,364
+207,3,Bamidele,Alli,17,365
+208,3,Victor,Wanyama,17,366
+209,3,Heung-Min,Son,17,367
+210,3,Harry,Winks,17,368
+211,3,Moussa,Sissoko,17,369
+212,3,Lucas,Rodrigues Moura da Silva,17,370
+213,3,Georges-Kévin,Nkoudou,17,497
+214,3,Luke,Amos,17,523
+215,3,Oliver,Skipp,17,540
+216,3,George,Marsh,17,612
+217,3,Nathaniel,Chalobah,18,387
+218,3,Tom,Cleverley,18,388
+219,3,Etienne,Capoue,18,389
+220,3,Abdoulaye,Doucouré,18,390
+221,3,Roberto,Pereyra,18,391
+222,3,Will,Hughes,18,392
+223,3,Gerard,Deulofeu,18,394
+224,3,Ken,Sema,18,446
+225,3,Domingos,Quina,18,517
+226,3,Arthur,Masuaku,19,410
+227,3,Mark,Noble,19,411
+228,3,Pedro,Obiang,19,413
+229,3,Manuel,Lanzini,19,414
+230,3,Michail,Antonio,19,415
+231,3,Edimilson,Fernandes,19,416
+232,3,Jack,Wilshere,19,447
+233,3,Andriy,Yarmolenko,19,453
+234,3,Felipe Anderson,Pereira Gomes,19,465
+235,3,Robert,Snodgrass,19,489
+236,3,Carlos,Sánchez,19,518
+237,3,Grady,Diangana,19,539
+238,3,Joe,Powell,19,547
+239,3,Conor,Coventry,19,548
+240,3,Samir,Nasri,19,569
+241,3,Nathan,Holland,19,611
+242,3,Diogo,Jota,20,432
+243,3,Rúben Diogo,da Silva Neves,20,433
+244,3,Ivan,Cavaleiro,20,434
+245,3,Hélder,Costa,20,435
+246,3,Bright,Enobakhare,20,436
+247,3,Morgan,Gibbs-White,20,448
+248,3,João Filipe Iria,Santos Moutinho,20,475
+249,3,Adama,Traoré,20,500
+250,3,Leander,Dendoncker,20,519
+251,3,Ryan John,Giles,20,555

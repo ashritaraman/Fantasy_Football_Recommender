@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/AI_Prac/static/css/main.f63f7767.chunk.css",
+    "main.js": "/AI_Prac/static/js/main.bba5d867.chunk.js",
+    "main.js.map": "/AI_Prac/static/js/main.bba5d867.chunk.js.map",
+    "runtime-main.js": "/AI_Prac/static/js/runtime-main.d33505b7.js",
+    "runtime-main.js.map": "/AI_Prac/static/js/runtime-main.d33505b7.js.map",
+    "static/css/2.7be2b69c.chunk.css": "/AI_Prac/static/css/2.7be2b69c.chunk.css",
+    "static/js/2.397d2c39.chunk.js": "/AI_Prac/static/js/2.397d2c39.chunk.js",
+    "static/js/2.397d2c39.chunk.js.map": "/AI_Prac/static/js/2.397d2c39.chunk.js.map",
+    "index.html": "/AI_Prac/index.html",
+    "precache-manifest.05b30f77d2ceb05d2a95b820947fb1d7.js": "/AI_Prac/precache-manifest.05b30f77d2ceb05d2a95b820947fb1d7.js",
+    "service-worker.js": "/AI_Prac/service-worker.js",
+    "static/css/2.7be2b69c.chunk.css.map": "/AI_Prac/static/css/2.7be2b69c.chunk.css.map",
+    "static/css/main.f63f7767.chunk.css.map": "/AI_Prac/static/css/main.f63f7767.chunk.css.map",
+    "static/js/2.397d2c39.chunk.js.LICENSE.txt": "/AI_Prac/static/js/2.397d2c39.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/AI_Prac/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/modal_pic.png": "/AI_Prac/static/media/modal_pic.65da1bef.png",
+    "static/media/pic.png": "/AI_Prac/static/media/pic.befcc906.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d33505b7.js",
+    "static/css/2.7be2b69c.chunk.css",
+    "static/js/2.397d2c39.chunk.js",
+    "static/css/main.f63f7767.chunk.css",
+    "static/js/main.bba5d867.chunk.js"
+  ]
+}
